@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emma Fouillat</h1>
-<h3 align="center">Studying in DIWA - Développeur et Intégrateur de Web Applications</h3>
+<h3 align="center">Studying in MS2D at ENI </h3>
 
 - 🔭 I’m currently working on **my portfolio, always...**
 
